@@ -17,8 +17,7 @@ w3c-spec-validator/
 
 ## The SKILL.md Template
 
-Markdown
----
+```
 name: w3c-spec-validator
 description: Validates HTML, CSS, and Accessibility (WCAG) markup against official W3C recommendations. Use when the user asks to check compliance, audit web components, or fix accessibility errors.
 metadata:
@@ -60,3 +59,4 @@ You are an expert W3C standards compliance agent. Your job is to analyze user co
 - **If** the user requests a quick audit, output a concise table of errors grouped by severity (Critical, Moderate, Minor).
 - **If** the user asks how to implement a complex component, reference the W3C WAI-ARIA Authoring Practices Guid
 - 
+```
