@@ -2,6 +2,8 @@
 
 Core W3C utility skills, and centralized curation.
 
+Groups may use their own repositories for AI skills.
+
 ## Recommended W3C Skill Folder Structure
 
 ```
